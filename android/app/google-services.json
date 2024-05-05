@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "398108137690",
+    "project_id": "nphs-go",
+    "storage_bucket": "nphs-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398108137690:android:40059c8ae5b154b7bc2de3",
+        "android_client_info": {
+          "package_name": "com.example.pnhs_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398108137690-mqj8krhn0o9i8j9jfdr6nmve5cre8lol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsp9DFnjEHcaAAq32jkRJmDaVhmPGS5oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398108137690-mqj8krhn0o9i8j9jfdr6nmve5cre8lol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398108137690-kitknphup6tdtr3kjkok93l7nbqjnc8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pnhsGo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
