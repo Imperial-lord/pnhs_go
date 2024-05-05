@@ -64,7 +64,6 @@ class _NavigateScreenState extends State<NavigateScreen> {
         allowsUTurnAtWayPoints: true,
         enableRefresh: true,
         units: VoiceUnits.metric,
-        simulateRoute: true,
         language: "en");
 
     // Configure waypoints
